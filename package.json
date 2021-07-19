@@ -1,0 +1,19 @@
+{
+  "name": "staircase-interpreter",
+  "version": "1.0.0",
+  "description": "StairCase Language Interpreter",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "StairCase",
+    "Language",
+    "Interpreter"
+  ],
+  "author": "Wagner Barongello",
+  "license": "ISC",
+  "dependencies": {
+    "staircase-language": "^1.0.1"
+  }
+}
