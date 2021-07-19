@@ -8,9 +8,10 @@
     "type": "git",
     "url": "git+https://github.com/barongello/staircase-language-interpreter.git"
   },
-  "scripts": {
-    "start": "node index.js"
+  "bin": {
+    "scli": "index.js"
   },
+  "preferGlobal": true,
   "keywords": [
     "StairCase",
     "Language",
