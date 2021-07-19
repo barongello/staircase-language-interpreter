@@ -1,6 +1,6 @@
 {
-  "name": "staircase-interpreter",
-  "version": "0.1.0",
+  "name": "staircase-language-interpreter",
+  "version": "1.0.0",
   "description": "StairCase Language Interpreter",
   "main": "index.js",
   "homepage": "https://github.com/barongello/staircase-language-interpreter",
