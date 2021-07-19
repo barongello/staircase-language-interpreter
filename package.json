@@ -3,6 +3,11 @@
   "version": "1.0.0",
   "description": "StairCase Language Interpreter",
   "main": "index.js",
+  "homepage": "https://github.com/barongello/staircase-language-interpreter",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/barongello/staircase-language-interpreter.git"
+  },
   "scripts": {
     "start": "node index.js"
   },
@@ -11,7 +16,7 @@
     "Language",
     "Interpreter"
   ],
-  "author": "Wagner Barongello",
+  "author": "Wagner Barongello <wagner@barongello.com.br>",
   "license": "ISC",
   "dependencies": {
     "staircase-language": "^1.0.1"
